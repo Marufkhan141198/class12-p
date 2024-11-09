@@ -1,0 +1,21 @@
+.hero {
+    height: 1300px;
+    /* background-color: brown; */
+    background-image: url('bg image.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.p {
+    text-align: center;
+    font-size: xx-large;
+}
+.pp {
+width: 24.29%;
+height: 200px;
+border: 2px solid green;
+float: left;
+margin-left: 2px;
+margin-top: 10px;
+margin-bottom: 10px;
+}
