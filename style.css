@@ -1,21 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border border-box;
+}
 .hero {
-    height: 1300px;
+    height: 900px;
+    width: 1000px;
     /* background-color: brown; */
     background-image: url('bg image.webp');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+
 }
 .p {
     text-align: center;
     font-size: xx-large;
 }
 .pp {
-width: 24.29%;
+width: 240px;
 height: 200px;
 border: 2px solid green;
 float: left;
 margin-left: 2px;
 margin-top: 10px;
 margin-bottom: 10px;
+background-repeat: no-repeat ;
+background-position: center;
+background-size: cover;
 }
+/* @media screen and (max-width: 878px){
+
+    .pp {
+        width: 150px;
+    }
+}
+@media screen and (max-width: 742px) {
+    .pp {
+        width: 100px;
+    }
+    @media screen and (max-width: 440px) {
+        .pp {
+            width: 50px;
+        }
+        @media screen and (max-width: 441px) {
+            .pp {
+                width: 40px;
+            } */
+             @media screen and (max-width: 890px){
+                .p {
+                    color: red;
+                }
+            }
+            @media screen and (max-width: 783px;)
+
+                
+            }
